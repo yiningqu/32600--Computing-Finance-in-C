@@ -1,0 +1,115 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Calculator",
+					"jsonFile" : "directory-Calculator-Debug-8fa8ce9c0adeb9528882.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Calculator",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "UnitTest",
+					"jsonFile" : "directory-UnitTest-Debug-1f7093f7becc9d38bb23.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "UnitTest",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "Example1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "unit_test",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Example1::@0f793c103ae9cca63ff0",
+					"jsonFile" : "target-Example1-Debug-8fe8a5db60c6d2a4e908.json",
+					"name" : "Example1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "unit_test::@3a9a5df3be7a480ed22b",
+					"jsonFile" : "target-unit_test-Debug-d029c78c59d9aa8315e4.json",
+					"name" : "unit_test",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/yiningqu/Desktop/\u7814\u7a76\u751f/32600 C++/UnitTesting/CLion/Calculator/cmake-build-debug",
+		"source" : "/Users/yiningqu/Desktop/\u7814\u7a76\u751f/32600 C++/UnitTesting/CLion/Calculator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

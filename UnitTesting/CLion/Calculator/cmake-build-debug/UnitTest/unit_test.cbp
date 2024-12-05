@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="unit_test"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Calculator\;CMake Files\UnitTest\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/cmake-build-debug/UnitTest"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/cmake-build-debug/UnitTest/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/cmake-build-debug/UnitTest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/cmake-build-debug/UnitTest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/cmake-build-debug/UnitTest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="unit_test">
+				<Option output="C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/cmake-build-debug/UnitTest/unit_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/cmake-build-debug/UnitTest"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/l_cha/Desktop/Finm326/Week8"/>
+					<Add directory="C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/UnitTest/../Calculator"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/cmake-build-debug/UnitTest/Makefile&quot;  VERBOSE=1 unit_test"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/cmake-build-debug/UnitTest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/cmake-build-debug/UnitTest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/cmake-build-debug/UnitTest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="unit_test/fast">
+				<Option output="C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/cmake-build-debug/UnitTest/unit_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/cmake-build-debug/UnitTest"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/l_cha/Desktop/Finm326/Week8"/>
+					<Add directory="C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/UnitTest/../Calculator"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/cmake-build-debug/UnitTest/Makefile&quot;  VERBOSE=1 unit_test/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/cmake-build-debug/UnitTest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/cmake-build-debug/UnitTest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/cmake-build-debug/UnitTest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/Calculator/Add.cpp">
+			<Option target="unit_test"/>
+		</Unit>
+		<Unit filename="C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/Calculator/Add.h">
+			<Option target="unit_test"/>
+		</Unit>
+		<Unit filename="C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/UnitTest/UnitTest.cpp">
+			<Option target="unit_test"/>
+		</Unit>
+		<Unit filename="C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/Calculator/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Calculator\"/>
+		</Unit>
+		<Unit filename="C:/Users/l_cha/Desktop/Finm326/Week8/UnitTests/Example1/UnitTest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\UnitTest\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

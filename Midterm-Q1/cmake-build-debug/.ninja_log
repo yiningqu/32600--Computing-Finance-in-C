@@ -1,0 +1,6 @@
+# ninja log v5
+1	75	1706925524215160753	CMakeFiles/Midterm_Q1.dir/partb.cpp.o	a0189a558bb9c4bf
+0	857	1706925524993501757	CMakeFiles/Midterm_Q1.dir/currency.cpp.o	17e40d68647d58c3
+10	732	1706925844743477527	CMakeFiles/Midterm_Q1.dir/CurrencyFactory.cpp.o	f1518c44b6277eb0
+909	995	1706925845011740253	Midterm_Q1	50af33a0bb05b7d7
+9	909	1706925844919474942	CMakeFiles/Midterm_Q1.dir/main.cpp.o	f92a7e3c2b7be562

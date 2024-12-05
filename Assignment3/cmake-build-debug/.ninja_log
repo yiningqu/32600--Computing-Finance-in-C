@@ -1,0 +1,7 @@
+# ninja log v5
+915	984	1708126987316828283	Assignment3	9cb16397d281f2fc
+5	640	1708126986965831516	CMakeFiles/Assignment3.dir/Currenc.cpp.o	faf24f6d48b6aed9
+6	915	1708126987241936568	CMakeFiles/Assignment3.dir/CurrencyFactory.cpp.o	68c5269572c4e0c3
+5	760	1708126987086571055	CMakeFiles/Assignment3.dir/main.cpp.o	f32061ea107cb77c
+0	160	1709766218382651694	build.ninja	f31e083f6ae87513
+0	12	0	clean	e625fed40095271c

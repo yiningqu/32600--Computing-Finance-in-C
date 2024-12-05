@@ -1,0 +1,7 @@
+# ninja log v5
+1	146	1709884713483800495	CMakeFiles/L3_StaticCounter.dir/Counter.cpp.o	c7bfb55a0a0019ad
+0	1429	1709884714760404134	CMakeFiles/L3_StaticCounter.dir/main.cpp.o	eb100e49afce01fd
+1433	1525	1709884714863142965	L3_StaticCounter	578440d680ba63c5
+18	107	1709884777431087391	CMakeFiles/L3_StaticCounter.dir/Counter.cpp.o	c7bfb55a0a0019ad
+18	1051	1709884778370329880	CMakeFiles/L3_StaticCounter.dir/main.cpp.o	eb100e49afce01fd
+1051	1148	1709884778474325767	L3_StaticCounter	578440d680ba63c5

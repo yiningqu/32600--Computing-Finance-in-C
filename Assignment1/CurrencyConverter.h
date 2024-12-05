@@ -1,0 +1,7 @@
+
+#ifndef ASSIGNMENT1_CURRENCYCONVERTER_H
+#define ASSIGNMENT1_CURRENCYCONVERTER_H
+
+double convertCurrency(int, int, double);
+
+#endif //ASSIGNMENT1_CURRENCYCONVERTER_H

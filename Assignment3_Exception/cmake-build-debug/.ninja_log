@@ -1,0 +1,5 @@
+# ninja log v5
+12	1130	1708070384431618301	CMakeFiles/Assignment3.dir/currency.cpp.o	dc550bea580d5389
+22	1947	1708130247504422401	CMakeFiles/Assignment3.dir/main.cpp.o	2570193d56122810
+1948	2036	1708130247596820354	Assignment3	bfca7397b0263052
+10	3163	1708129836834439856	CMakeFiles/Assignment3.dir/CurrencyFactory.cpp.o	1bec44c040b2c25d

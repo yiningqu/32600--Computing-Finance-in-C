@@ -1,0 +1,3 @@
+/Users/yiningqu/Desktop/研究生/32600 C++/L2_lettergrade/cmake-build-debug/CMakeFiles/L2_lettergrade.dir
+/Users/yiningqu/Desktop/研究生/32600 C++/L2_lettergrade/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yiningqu/Desktop/研究生/32600 C++/L2_lettergrade/cmake-build-debug/CMakeFiles/rebuild_cache.dir

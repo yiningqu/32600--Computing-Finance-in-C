@@ -1,0 +1,195 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Example1",
+					"jsonFile" : "directory-Example1-Debug-2204ed5064c46e39fd9b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Example1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Example2",
+					"jsonFile" : "directory-Example2-Debug-a01904bc1e7e64cade90.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Example2",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Example3",
+					"jsonFile" : "directory-Example3-Debug-e0481d51c5872d24fb38.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "Example3",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "Example4",
+					"jsonFile" : "directory-Example4-Debug-73d69d6f503770da62cd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "Example4",
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "week7_demo"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Example1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "Example2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "Example3",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "Example4",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "example1::@14c2703bc1bfd4351e34",
+					"jsonFile" : "target-example1-Debug-4690f8481ee124bfb582.json",
+					"name" : "example1",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "example2::@50b8fa17233acbdd8107",
+					"jsonFile" : "target-example2-Debug-24ed89404a521121413f.json",
+					"name" : "example2",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "example3::@d9d084d2d7ee3c261948",
+					"jsonFile" : "target-example3-Debug-7725d581127c631bcca4.json",
+					"name" : "example3",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "example4::@6473c7dda82a14e9bf56",
+					"jsonFile" : "target-example4-Debug-488627f9d477389e68b1.json",
+					"name" : "example4",
+					"projectIndex" : 4
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/yiningqu/Desktop/\u7814\u7a76\u751f/32600 C++/L6_Week7/cmake-build-debug",
+		"source" : "/Users/yiningqu/Desktop/\u7814\u7a76\u751f/32600 C++/L6_Week7"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Example2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Example1\;CMake Files\Example2\;CMake Files\Example3\;CMake Files\Example4\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/yiningqu/Desktop/研究生/32600 C++/L6_Week7/cmake-build-debug/Example2"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yiningqu/Desktop/研究生/32600\ C++/L6_Week7/cmake-build-debug/Example2/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yiningqu/Desktop/研究生/32600\ C++/L6_Week7/cmake-build-debug/Example2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yiningqu/Desktop/研究生/32600\ C++/L6_Week7/cmake-build-debug/Example2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yiningqu/Desktop/研究生/32600\ C++/L6_Week7/cmake-build-debug/Example2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example2">
+				<Option output="/Users/yiningqu/Desktop/研究生/32600 C++/L6_Week7/cmake-build-debug/Example2/example2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yiningqu/Desktop/研究生/32600 C++/L6_Week7/cmake-build-debug/Example2"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yiningqu/Desktop/研究生/32600\ C++/L6_Week7/cmake-build-debug/Example2/Makefile&quot;  VERBOSE=1 example2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yiningqu/Desktop/研究生/32600\ C++/L6_Week7/cmake-build-debug/Example2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yiningqu/Desktop/研究生/32600\ C++/L6_Week7/cmake-build-debug/Example2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yiningqu/Desktop/研究生/32600\ C++/L6_Week7/cmake-build-debug/Example2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example2/fast">
+				<Option output="/Users/yiningqu/Desktop/研究生/32600 C++/L6_Week7/cmake-build-debug/Example2/example2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yiningqu/Desktop/研究生/32600 C++/L6_Week7/cmake-build-debug/Example2"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yiningqu/Desktop/研究生/32600\ C++/L6_Week7/cmake-build-debug/Example2/Makefile&quot;  VERBOSE=1 example2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yiningqu/Desktop/研究生/32600\ C++/L6_Week7/cmake-build-debug/Example2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yiningqu/Desktop/研究生/32600\ C++/L6_Week7/cmake-build-debug/Example2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yiningqu/Desktop/研究生/32600\ C++/L6_Week7/cmake-build-debug/Example2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/yiningqu/Desktop/研究生/32600 C++/L6_Week7/Example2/Base1.cpp">
+			<Option target="example2"/>
+		</Unit>
+		<Unit filename="/Users/yiningqu/Desktop/研究生/32600 C++/L6_Week7/Example2/Base1.h">
+			<Option target="example2"/>
+		</Unit>
+		<Unit filename="/Users/yiningqu/Desktop/研究生/32600 C++/L6_Week7/Example2/Derived1.cpp">
+			<Option target="example2"/>
+		</Unit>
+		<Unit filename="/Users/yiningqu/Desktop/研究生/32600 C++/L6_Week7/Example2/Derived1.h">
+			<Option target="example2"/>
+		</Unit>
+		<Unit filename="/Users/yiningqu/Desktop/研究生/32600 C++/L6_Week7/Example2/main.cpp">
+			<Option target="example2"/>
+		</Unit>
+		<Unit filename="/Users/yiningqu/Desktop/研究生/32600 C++/L6_Week7/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/yiningqu/Desktop/研究生/32600 C++/L6_Week7/Example1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Example1\"/>
+		</Unit>
+		<Unit filename="/Users/yiningqu/Desktop/研究生/32600 C++/L6_Week7/Example2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Example2\"/>
+		</Unit>
+		<Unit filename="/Users/yiningqu/Desktop/研究生/32600 C++/L6_Week7/Example3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Example3\"/>
+		</Unit>
+		<Unit filename="/Users/yiningqu/Desktop/研究生/32600 C++/L6_Week7/Example4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Example4\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

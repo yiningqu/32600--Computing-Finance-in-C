@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/example1.dir/Source.cpp.o CMakeFiles/example1.dir/Person.cpp.o CMakeFiles/example1.dir/Student.cpp.o CMakeFiles/example1.dir/Employee.cpp.o -o example1 

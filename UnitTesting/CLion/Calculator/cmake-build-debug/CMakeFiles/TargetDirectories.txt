@@ -1,0 +1,8 @@
+/Users/yiningqu/Desktop/研究生/32600 C++/UnitTesting/CLion/Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yiningqu/Desktop/研究生/32600 C++/UnitTesting/CLion/Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yiningqu/Desktop/研究生/32600 C++/UnitTesting/CLion/Calculator/cmake-build-debug/Calculator/CMakeFiles/Example1.dir
+/Users/yiningqu/Desktop/研究生/32600 C++/UnitTesting/CLion/Calculator/cmake-build-debug/Calculator/CMakeFiles/edit_cache.dir
+/Users/yiningqu/Desktop/研究生/32600 C++/UnitTesting/CLion/Calculator/cmake-build-debug/Calculator/CMakeFiles/rebuild_cache.dir
+/Users/yiningqu/Desktop/研究生/32600 C++/UnitTesting/CLion/Calculator/cmake-build-debug/UnitTest/CMakeFiles/unit_test.dir
+/Users/yiningqu/Desktop/研究生/32600 C++/UnitTesting/CLion/Calculator/cmake-build-debug/UnitTest/CMakeFiles/edit_cache.dir
+/Users/yiningqu/Desktop/研究生/32600 C++/UnitTesting/CLion/Calculator/cmake-build-debug/UnitTest/CMakeFiles/rebuild_cache.dir

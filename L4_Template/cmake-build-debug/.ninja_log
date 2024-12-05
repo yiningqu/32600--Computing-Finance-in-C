@@ -1,0 +1,7 @@
+# ninja log v5
+0	163	1709885202367453919	build.ninja	d7ce9014640de616
+5	83	1709760306302137312	CMakeFiles/L4_Template.dir/min_max.cpp.o	1fa6c5d90e32b3d9
+6	84	1709760306304250688	CMakeFiles/L4_Template.dir/add.cpp.o	9c0f416e376e1c58
+4	849	1709760564696222955	CMakeFiles/L4_Template.dir/main.cpp.o	f2e451ff0e6af699
+5	82	1709760306301920095	CMakeFiles/L4_Template.dir/swap.cpp.o	e68ffa593b2d3c4c
+829	909	1709760558868033616	L4_Template	64b907fe845349e9

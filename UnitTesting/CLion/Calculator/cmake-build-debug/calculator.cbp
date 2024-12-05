@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="calculator"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Calculator\;CMake Files\UnitTest\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/l_cha/Desktop/UnitTests/Example1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/l_cha/Desktop/UnitTests/Example1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/l_cha/Desktop/UnitTests/Example1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Example1">
+				<Option output="C:/Users/l_cha/Desktop/UnitTests/Example1/cmake-build-debug/Calculator/Example1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/l_cha/Desktop/UnitTests/Example1/cmake-build-debug/Calculator"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\Calculator\Makefile VERBOSE=1 Example1"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\Calculator\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\Calculator\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\Calculator\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Example1/fast">
+				<Option output="C:/Users/l_cha/Desktop/UnitTests/Example1/cmake-build-debug/Calculator/Example1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/l_cha/Desktop/UnitTests/Example1/cmake-build-debug/Calculator"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\Calculator\Makefile VERBOSE=1 Example1/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\Calculator\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\Calculator\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\Calculator\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="unit_test">
+				<Option output="C:/Users/l_cha/Desktop/UnitTests/Example1/cmake-build-debug/UnitTest/unit_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/l_cha/Desktop/UnitTests/Example1/cmake-build-debug/UnitTest"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/l_cha/Desktop/2019-20/boost_1_71_0"/>
+					<Add directory="C:/Users/l_cha/Desktop/UnitTests/Example1/UnitTest/../Calculator"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\UnitTest\Makefile VERBOSE=1 unit_test"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\UnitTest\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\UnitTest\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\UnitTest\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="unit_test/fast">
+				<Option output="C:/Users/l_cha/Desktop/UnitTests/Example1/cmake-build-debug/UnitTest/unit_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/l_cha/Desktop/UnitTests/Example1/cmake-build-debug/UnitTest"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/l_cha/Desktop/2019-20/boost_1_71_0"/>
+					<Add directory="C:/Users/l_cha/Desktop/UnitTests/Example1/UnitTest/../Calculator"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\UnitTest\Makefile VERBOSE=1 unit_test/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\UnitTest\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\UnitTest\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\l_cha\Desktop\UnitTests\Example1\cmake-build-debug\UnitTest\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/l_cha/Desktop/UnitTests/Example1/Calculator/Add.cpp">
+			<Option target="Example1"/>
+			<Option target="unit_test"/>
+		</Unit>
+		<Unit filename="C:/Users/l_cha/Desktop/UnitTests/Example1/Calculator/Add.h">
+			<Option target="Example1"/>
+		</Unit>
+		<Unit filename="C:/Users/l_cha/Desktop/UnitTests/Example1/Calculator/main.cpp">
+			<Option target="Example1"/>
+		</Unit>
+		<Unit filename="C:/Users/l_cha/Desktop/UnitTests/Example1/UnitTest/UnitTest.cpp">
+			<Option target="unit_test"/>
+		</Unit>
+		<Unit filename="C:/Users/l_cha/Desktop/UnitTests/Example1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/l_cha/Desktop/UnitTests/Example1/Calculator/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Calculator\"/>
+		</Unit>
+		<Unit filename="C:/Users/l_cha/Desktop/UnitTests/Example1/UnitTest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\UnitTest\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

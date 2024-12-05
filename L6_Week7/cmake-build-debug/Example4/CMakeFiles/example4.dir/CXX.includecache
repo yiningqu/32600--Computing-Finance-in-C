@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/l_cha/Desktop/2020-21/Winter21/Finm326/L7/forClass/Demo/CLion/Week7/Example4/Base3.h
+
+C:/Users/l_cha/Desktop/2020-21/Winter21/Finm326/L7/forClass/Demo/CLion/Week7/Example4/Derived3.cpp
+Derived3.h
+C:/Users/l_cha/Desktop/2020-21/Winter21/Finm326/L7/forClass/Demo/CLion/Week7/Example4/Derived3.h
+iostream
+-
+
+C:/Users/l_cha/Desktop/2020-21/Winter21/Finm326/L7/forClass/Demo/CLion/Week7/Example4/Derived3.h
+Base3.h
+C:/Users/l_cha/Desktop/2020-21/Winter21/Finm326/L7/forClass/Demo/CLion/Week7/Example4/Base3.h
+
+C:/Users/l_cha/Desktop/2020-21/Winter21/Finm326/L7/forClass/Demo/CLion/Week7/Example4/main.cpp
+iostream
+-
+Derived3.h
+C:/Users/l_cha/Desktop/2020-21/Winter21/Finm326/L7/forClass/Demo/CLion/Week7/Example4/Derived3.h
+

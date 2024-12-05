@@ -1,0 +1,5 @@
+int add(int,int);
+
+#ifndef ASSIGNMENT_0_CALCULATOR_H
+#define ASSIGNMENT_0_CALCULATOR_H
+#endif //ASSIGNMENT_0_CALCULATOR_H
